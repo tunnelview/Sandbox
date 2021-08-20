@@ -1,6 +1,6 @@
 
 
-
+def main():
 
 MINIMUM_LENGTH = 16
 
@@ -18,4 +18,4 @@ print("*" * len(get_password))
 # print("Your password is masked")
 
 
-
+main()
